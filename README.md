@@ -1,2 +1,0 @@
-# safish
-Personal CV
